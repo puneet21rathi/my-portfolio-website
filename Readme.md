@@ -22,10 +22,10 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 To view this portfolio website locally, follow these steps:
 
 1. Clone the Repository:
-    git clone https://github.com/yourusername/your-repository-name.git
+    git clone https://github.com/puneet21rathi/my-portfolio-website.git
 
 2. Navigate to the Project Directory:
-    cd your-repository-name
+    cd my-portfolio-website
 
 3. Open the Project in Your Preferred Code Editor:
     code .
