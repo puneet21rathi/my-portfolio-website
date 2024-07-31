@@ -47,14 +47,6 @@ To view this portfolio website locally, follow these steps:
     Commit your changes (git commit -am 'Add new feature').
     Push to the branch (git push origin feature/YourFeature).
     Create a new Pull Request.
-
-    Contact
-    Feel free to reach out to me via the following platforms:
-
-    LinkedIn: Puneet Rathi
-    Twitter: @Puneetr_27
-    GitHub: puneet21rathi
-
     License
     This project is licensed under the MIT License. See the LICENSE file for details.
 
